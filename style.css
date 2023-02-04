@@ -1,0 +1,293 @@
+/* header */
+.header {
+  background-color: aliceblue;
+}
+
+/* navbar brand  */
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-brand span {
+  font-weight: 400;
+}
+
+.navbar-nav {
+  font-size: 14px;
+  font-weight: 400;
+}
+/* akhir navbar */
+
+/* ini awal hero */
+.hero h3 {
+  font-size: 40px;
+}
+
+.hero p {
+  font-size: 16px;
+}
+
+.hero button {
+  width: 150px;
+  padding: 10px;
+}
+
+.hero .imagehero {
+    border-radius: 0 0 0 200px;
+}
+
+.hero .imagedot {
+  position: relative;
+  right: 620px;
+  top: -160px;
+  z-index: -12;
+}
+
+.hero .imagelips {
+  position: relative;
+  right: 470px;
+  top: -460px;
+  z-index: -12;
+}
+
+.hero .imagerec {
+  position: relative;
+  top: -160px;
+  height: 100px;
+  left: 553px;
+  z-index: -12;
+}
+/* ini akhir hero */
+
+/* our client */
+.our-client h2 {
+  font-weight: 600;
+}
+
+.our-client p {
+  font-size: 16px;
+}
+
+.our-client img {
+  padding: 5px;
+}
+
+.our-client .amazon {
+  margin-top: 20px;
+}
+/* akhir our client */
+
+/* ini kartu */
+.kartu svg {
+  background-color: #f1f7ff;
+  margin-left: 75px;
+  padding: 10px 10px;
+  border-radius: 1rem;
+}
+
+.kartu .card {
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+}
+
+.kartu h2 {
+  margin-bottom: 50px;
+}
+
+.kartu .img24 {
+  position: relative;
+  top: -220px;
+  right: 20px;
+  z-index: -12;
+  height: 120px;
+}
+
+.kartu .img25 {
+  position: relative;
+  left: 149px;
+  top: -400px;
+  width: 1047px;
+  height: 650px;
+  z-index: -12;
+}
+
+.kartu h6 {
+  font-size: 24px;
+  color: black;
+}
+
+.kartu p {
+  font-size: 16px;
+}
+
+/* image 2 */
+.image2 .imagebaru2 {
+  border-radius: 12px;
+}
+
+.image2 .image12 {
+  position: relative;
+  top: -290px;
+  left: 250px;
+}
+
+.image2 .image13 {
+  position: relative;
+  top: -370px;
+  left: 467px;
+  z-index: -12;
+}
+
+.image2 .image14 {
+  position: relative;
+  top: -130px;
+  left: 200px;
+  z-index: -12;
+}
+/* akhir image 2 */
+
+/* text */
+/* akhir text */
+
+/* ini image 2 */
+.image-2 h6 {
+  position: relative;
+  top: 10px;
+}
+
+.image-2 .img10 {
+  position: relative;
+  top: 90px;
+  right: 350px;
+  z-index: -12;
+}
+
+.image-2 p {
+  font-size: 12px;
+}
+
+.image-2 .img-1 {
+  border-radius: 500px 0 500px 500px;
+}
+
+.image-2 .img11 {
+  position: relative;
+  top: -440px;
+  left: 180px;
+  z-index: -11;
+}
+.imagea {
+  position: relative;
+}
+
+.image-2 .imagea .img1 {
+  position: relative;
+  left: 190px;
+  top: 80px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img2 {
+  position: relative;
+  top: -48px;
+  left: 75px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img3 {
+  position: relative;
+  top: -10px;
+  left: 100px;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+.image-2 .imagea .img4 {
+  position: relative;
+  top: 160px;
+  left: 50px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img5 {
+  position: relative;
+  top: 100px;
+  left: 185px;
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;   
+}
+
+.image-2 .imagea .img6 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img7 {
+  position: relative;
+  top: -70px;
+  width:80px;
+  height: 80px;
+  right: 50px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img8 {
+    position: relative;
+    width: 55px;
+    height: 55px;
+    left: 130px;
+    top: -23px;
+  border-radius: 50%;
+}
+
+.image-2 .imagea .img9 {
+  position: relative;
+  z-index: -111;
+  left: 70px;
+  top: -120px;
+  width: 170px;
+}
+/* akhir ini image 2 */
+
+/* form email */
+.form-1 {
+  width: 500px;
+  height: 90px;
+  border-radius: 50px;
+  background-color: #fff;
+}
+
+.form .imagea31 {
+  position: relative;
+  top: -200px;
+  z-index: -12;
+  left: 700px;
+}
+
+.form .imagea30 {
+  position: relative;
+  background-color: aqua;
+  top: -500px;
+}
+
+.form-2 {
+  border: none;
+}
+
+.form button {
+  border-radius: 50px;
+  margin-left: 100px;
+}
+
+/* akhir form email */
